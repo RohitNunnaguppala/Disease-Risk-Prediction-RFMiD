@@ -1,4 +1,3 @@
- 
 # Disease Risk Prediction using RFMiD Dataset
 
 This project explores machine learning techniques to predict disease risk levels based on retinal eye conditions using the **Retinal Fundus Multi-Disease (RFMiD)** dataset.
@@ -10,7 +9,7 @@ Our research focuses on evaluating the risk of diseases like:
 - Age-Related Macular Degeneration (ARMD)
 - Retinitis Pigmentosa
 - Glaucoma
-- And other retinal diseases
+- Other retinal diseases
 
 We apply various classification models such as:
 - Decision Trees
@@ -37,7 +36,28 @@ Explainability techniques like **SHAP** and **LIME** were used to enhance model 
 
 ## 🧪 Requirements
 
-To run the notebooks:
+To run the notebooks, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Includes: pandas, numpy, matplotlib, seaborn, scikit-learn, shap, lime, xgboost
+
+## 🧠 Publication
+
+This project was published as part of an academic paper:  
+*"Leveraging Machine Learning to Predict Disease Risk Levels from Multiple Eye Condition Indicators"*
+
+## 👨‍💻 Authors
+
+- Rohit Nunnaguppala
+- Mudumala Varnika Narayani
+- Tejashwini Vadeghar
+- Naga Ruthvika Durupudi
+- Aiswariya Milan K
+- Dr. Jyotsna C.
+
+## 📜 License
+
+This project is licensed under the MIT License.
