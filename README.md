@@ -49,14 +49,6 @@ Includes: pandas, numpy, matplotlib, seaborn, scikit-learn, shap, lime, xgboost
 This project was published as part of an academic paper:  
 *"Leveraging Machine Learning to Predict Disease Risk Levels from Multiple Eye Condition Indicators"*
 
-## 👨‍💻 Authors
-
-- Rohit Nunnaguppala
-- Mudumala Varnika Narayani
-- Tejashwini Vadeghar
-- Naga Ruthvika Durupudi
-- Aiswariya Milan K
-- Dr. Jyotsna C.
 
 ## 📜 License
 
